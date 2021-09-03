@@ -20,5 +20,7 @@ This repository is created to keep track of my progress in the awesome JavaScrip
 
 **Tool Found:** Find JavaScript event keycodes at [keycode.info](http://keycode.info/)
 
-**Demo:** You can play/stop a auto drum routine. Click on <a src="https://abhishashah.github.io/Javascript-30-day-Challange/Day%201%20-%20JavaScript%20Drum%20Kit/"> JavaScript Drum Kit </a>
+**Demo:** You can play/stop a auto drum routine by clicking [here](https://abhishashah.github.io/Javascript-30-day-Challange/Day%201%20-%20JavaScript%20Drum%20Kit/). 
+
+
 
