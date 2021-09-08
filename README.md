@@ -22,5 +22,9 @@ This repository is created to keep track of my progress in the awesome JavaScrip
 
 **Demo:** You can play/stop a auto drum routine by clicking [here](https://abhishashah.github.io/Javascript-30-day-Challange/Day%201%20-%20JavaScript%20Drum%20Kit/). 
 
+### **Day 2: JS and CSS Clock**
 
+**Learnings:** 
+- Learned about Css transition & transform.
 
+**Demo:** [JS and CSS Clock](https://abhishashah.github.io/Javascript-30-day-Challange/Day%202%20-%20JS%20and%20CSS%20Clock/). 
